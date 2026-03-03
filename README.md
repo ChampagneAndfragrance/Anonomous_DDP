@@ -107,7 +107,7 @@ We build our project upon the paper [E2E Parking: Autonomous Parking by the End-
 	year={2024}
 }
 ```
-and [End-to-End Visual Autonomous Parking via Control-Aided Attention](https://www.arxiv.org/abs/2509.11090?context=cs) (one of our baseline):
+and [End-to-End Visual Autonomous Parking via Control-Aided Attention](https://www.arxiv.org/abs/2509.11090?context=cs) (one of our baseline with the [github repo](https://github.com/ai4ce/CAAPolicy)):
 ```
 @misc{chen2025endtoendvisualautonomousparking,
       title={End-to-End Visual Autonomous Parking via Control-Aided Attention}, 
